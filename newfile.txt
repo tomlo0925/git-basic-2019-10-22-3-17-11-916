@@ -1,0 +1,5 @@
+git add: add changes in files to staging area, could be create, update, delete, etc., changes in the staging area can be committed later
+
+git commit: pack all changes in staging area with description into a single commit to the current branch in local repository
+
+git push: upload local commits from local repository to remote which defined by user or use default upstream
